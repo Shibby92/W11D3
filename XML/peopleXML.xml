@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<people>
+	<person name="Mulat" surname="Arifovic" >
+	</person>
+	<person name="Belma" surname="Arifovic" >
+	</person>
+	<person name="Selma" surname="Arifovic" >
+	</person>
+	<person name="Tarik" surname="Arifovic" >
+		<child name="Medina" surname="Arifovic" />
+		<child name="Sumeja" surname="Arifovic" />
+	</person>
+	<person name="Faris" surname="Arifovic" >
+		<child name="Bilal" surname="Arifovic" />
+		<child name="Esma" surname="Arifovic" />
+	</person>
+	<person name="Haris" surname="Arifovic" >
+		<child name="Halima" surname="Arifovic" />
+		<child name="Muhamed" surname="Arifovic" />
+	</person>
+</people>
